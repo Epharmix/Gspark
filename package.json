@@ -1,6 +1,6 @@
 {
   "name": "gspark",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "343 guilty spark inspired file rotator",
   "main": "index.js",
   "scripts": {
