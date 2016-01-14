@@ -1,0 +1,32 @@
+{
+  "name": "gspark",
+  "version": "0.1.0",
+  "description": "343 guilty spark inspired file rotator",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Epharmix/Gspark.git"
+  },
+  "keywords": [
+    "file",
+    "backup",
+    "compress",
+    "encryption"
+  ],
+  "author": "Evan Huang <evanhuang8@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Epharmix/Gspark/issues"
+  },
+  "homepage": "https://github.com/Epharmix/Gspark#readme",
+  "dependencies": {
+    "archiver": "0.21.x",
+    "aws-sdk": "2.2.x",
+    "lodash": "*",
+    "minimist": "1.2.x",
+    "s3-upload-stream": "1.0.x"
+  }
+}
