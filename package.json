@@ -28,5 +28,8 @@
     "lodash": "*",
     "minimist": "1.2.x",
     "s3-upload-stream": "1.0.x"
+  },
+  "bin": {
+    "gspark": "./index.js"
   }
 }
